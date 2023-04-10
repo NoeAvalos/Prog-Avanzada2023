@@ -1,0 +1,24 @@
+#Cuadrado
+def area_cuadrado(base,altura):
+    return base*altura
+def perimetro_cuadrado(lado):
+    return lado*4
+
+area_cuadrado(12,57)
+perimetro_cuadrado(54)
+#rectangulo
+def area_rectangulo(largo,ancho):
+    return largo*ancho
+
+def perimetro_rectangulo(longitud,ancho):
+    return 2*longitud+2*ancho
+area_rectangulo(10,52)
+area_rectangulo
+#circunferencia
+def area_circunferencia(pi,radio):
+    return pi*radio
+
+def perimetro_circunferencia(pi,radio):
+    return 2*pi*radio
+
+
