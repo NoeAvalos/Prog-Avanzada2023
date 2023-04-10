@@ -14,6 +14,7 @@ def perimetro_rectangulo(longitud,ancho):
     return 2*longitud+2*ancho
 area_rectangulo(10,52)
 area_rectangulo
+
 #circunferencia
 def area_circunferencia(pi,radio):
     return pi*radio
